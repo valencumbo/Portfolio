@@ -303,7 +303,7 @@ const ResumeSection = () => {
                         <h3 className="text-4xl font-bold text-white mb-2">[Valentino Cumbo]</h3>
                         <p className="text-cyan-400 text-xl font-medium">{t('heroTitle')}</p>
                     </div>
-                    <a href="/cv.pdf" download="Valentino_Cumbo_CV.pdf" className="mt-6 md:mt-0 bg-white/5 hover:bg-white/10 text-white font-bold py-3 px-8 rounded-2xl border border-white/10 transition-all flex items-center gap-3 cursor-pointer">
+                    <a href="/CV-ValentinoCumbo.pdf" download="Valentino_Cumbo_CV.pdf" className="mt-6 md:mt-0 bg-white/5 hover:bg-white/10 text-white font-bold py-3 px-8 rounded-2xl border border-white/10 transition-all flex items-center gap-3 cursor-pointer">
                         {t('downloadCV')} <DownloadIcon />
                     </a>
                 </div>
